@@ -40,8 +40,8 @@
 <br/>
 
 <a href="https://github.com/hayst4ck0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hayst4ack0&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayst4ack0&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hayst4ck0&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayst4ck0&theme=dark&layout=compact" />
 </a>
 
 <br/>
@@ -51,4 +51,4 @@
 <a href="https://www.linkedin.com/in/abhishek-kumar-singh-8225b1205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar%20Singh-blue?style=flat-square&logo=linkedin"></a>
 
 
-⭐️ From [hayst4ack0](https://github.com/hayst4ck0)
+⭐️ From [hayst4ck0](https://github.com/hayst4ck0)
