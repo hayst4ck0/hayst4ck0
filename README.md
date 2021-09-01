@@ -40,8 +40,8 @@
 <br/>
 
 <a href="https://github.com/hayst4ck0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mAvERicK023&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mAvERicK023&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hayst4ack0&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayst4ack0&theme=dark&layout=compact" />
 </a>
 
 <br/>
