@@ -39,7 +39,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-<a href="https://github.com/mAvERicK023">
+<a href="https://github.com/hayst4ck0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mAvERicK023&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mAvERicK023&theme=dark&layout=compact" />
 </a>
@@ -48,7 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abhishek-kumar-singh-8225b1205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rishabh%20Saini-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/abhishek-kumar-singh-8225b1205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar%20Singh-blue?style=flat-square&logo=linkedin"></a>
 
 
 ⭐️ From [hayst4ack0](https://github.com/hayst4ck0)
